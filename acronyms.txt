@@ -20,7 +20,8 @@
 18.	POST	
 19.	CMS	
 20.	DVD 	
-21.	FAT 	
+21.	FAT 	File Allocation Table
+      Defines how files are stored on storage
 22.	HTML 	
 23.	HTTP 	
 24.	BYOD 	
@@ -44,7 +45,8 @@
 42.	UPS 	
 43.	BPS	
 44.	USB 	
-45.	DPI 	
+45.	DPI 	Dots Per Inch
+      Indicates the resolution size
 46.	CSS 	
 47.	MODEM 	
 48.	ASCII	
@@ -68,7 +70,8 @@
 66.	SATA
 67.	GUID
 68.	HDMI
-69.	IoT
+69.	IoT   Internet Of Things
+      A system of interrelated computing devices
 70.	IaaS
 71.	PaaS
 72.	SaaS
